@@ -1,6 +1,6 @@
 """
 ================================================================================
-AgroLang IDE  —  v2.0
+AgroLang IDE
 ================================================================================
 Compilador completo de uma Linguagem de Domínio Específico (DSL) para automação
 de regras de manejo agrícola, integrado a uma interface gráfica de desenvolvimento
@@ -22,7 +22,6 @@ Uso:
 
 Autor  : Victor Augusto de Oliveira
 Curso  : Engenharia da Computação — FHO Fundação Herminio Ometto
-Versão : 2.0
 ================================================================================
 """
 
@@ -991,7 +990,7 @@ EXEMPLOS: list[dict] = [
 # Exibida em ScrolledText somente leitura.
 DOCUMENTACAO = """
 ╔══════════════════════════════════════════════════════════════╗
-║           DOCUMENTAÇÃO DA LINGUAGEM AGROLANG v2.0           ║
+║           DOCUMENTAÇÃO DA LINGUAGEM AGROLANG                 ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ━━━ ESTRUTURA BÁSICA ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
